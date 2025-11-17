@@ -21,3 +21,5 @@ You can enhance it further by:
     Adding an image or illustration
     Using animations or SVGs
     Including a search box
+
+see error.png for template
